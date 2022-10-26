@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "csp_xpath_扛把子影院",
-      "name": "扛把子影院(xpf)",
+      "name": "扛把子1(xpf)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
