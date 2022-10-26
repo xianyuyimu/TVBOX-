@@ -1,0 +1,73 @@
+// 网站改版修正
+{
+  "author": "20220625",
+  "name": "奈落影院",
+  "url": "https://newfii.com",
+  "tihuan": "cnzz.com",
+  "User": "空",
+  "shouye": "1",
+  
+  "fenlei": "电影$/vodshow/1--------#国产剧$/vodshow/13--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#港台剧$/vodshow/14--------#海外剧$/vodshow/21--------#记录片$/vodshow/27--------#童漫$/vodshow/24--------#动画片$/vodshow/20--------#国漫$/vodshow/22--------#日漫$/vodshow/25--------#欧漫$/vodshow/23--------#番剧(B站)$/vodshow/35--------#国创(B站)$/vodshow/36--------#综艺$/vodshow/4--------#科幻片$/vodshow/6--------#动作片$/vodshow/7--------#喜剧片$/vodshow/8--------#爱情片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------",
+  "houzhui": "---.html",
+  
+  "shifouercijiequ": "0",
+  "jiequqian": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"module-item-pic\"",
+  "jiequshuzuhou": "class=\"module-item\"",
+  "tupianqian": "data-src=\"",
+  "tupianhou": "\"",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "item-text\">",
+  "fubiaotihou": "</div>",
+
+  
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"sort-item",
+  "bfjiequshuzuhou": "</div>",
+  
+  "zhuangtaiqian": "上映：</span>",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "导演：</span>",
+  "daoyanhou": "</div>",
+  "zhuyanqian": "主演：</span>",
+  "zhuyanhou": "</div>",
+  "juqingqian": "剧情：</span>",
+  "juqinghou": "</span>",
+  
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": "span>",
+  "bfbiaotihou": "</span",
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
+}

@@ -1,0 +1,76 @@
+// 跟Auete网站类似，第一页的页码不为1
+// 目前XBiubiu没有像新Biubiu测试版一样，可自定义起始页为其他页码的功能
+// 修复分类列表
+{"author":"20220530",
+"name": "漫岛动漫",
+"url": "https://www.mandao.tv",
+"tihuan": "cnzz.com",
+"User": "空",
+"shouye": "1",
+"fenlei": "日本动漫$/list/lm1_#国产动漫$/list/lm2_#欧美动漫$/list/lm3_#剧场电影$/list/lm4_#次元影视$/list/lm5_",
+"houzhui": ".html",
+"qishiye": "2",//可以自定义列表翻页起始页的页数，如果填上一个空字，则不使用起始页数，直接获取链接的数据。
+
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"li-hv",
+"jiequshuzuhou": "</div>",
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+
+//新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+"fubiaotiqian": "bz\">",
+"fubiaotihou": "</p>",
+
+
+ 
+"sousuoqian": "/search.php?searchword=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/man/",
+"ssmoshi": "1",
+"sousuoshifouercijiequ": "0",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "class=\"mb\"",
+"ssjiequshuzuhou": "<b", 
+"sstupianqian": "data-original=\"",
+"sstupianhou": "\"",
+"ssbiaotiqian": "title=\"",
+"ssbiaotihou": "\"",
+"sslianjieqian": "href=\"",
+"sslianjiehou": "\"",
+
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"stab_1_71\"",
+"bfjiequshuzuhou": "</ul>",
+
+"zhuangtaiqian": "状态：</b>",
+"zhuangtaihou": "</dd>",
+"daoyanqian": "类型：</b>",
+"daoyanhou": "</dd>",
+"zhuyanqian": "声优：</b>",
+"zhuyanhou": "</dd>",
+"juqingqian": "简介：</b>",
+"juqinghou": "<a",
+
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<li><a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": "_self\">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href='",
+"bflianjiehou": "'"
+}
+Footer
