@@ -176,7 +176,7 @@
 {"key":"csp_xp_tjyy","name":"💢奇优影院〔XB〕","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json"},
 {"key":"csp_biubiu_voflix","name":"💢vo fl ix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"},
 {"key":"csp_biubiu_完美看看影视","name":"💢完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"}
-],
+
 {"key":"xb","name":"------以下为网盘资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
