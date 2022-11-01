@@ -181,6 +181,7 @@
 {"key":"mtv_pc_追剧喵源","name":"💢追剧喵源〔XB〕","type":3,"api":"csp_ZJMiao"        ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
 {"key":"mtv_pc_在线之家","name":"爬虫┃在线之家","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1"jar":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 {"key":"mtv_pc_樱花动漫","name":"爬虫┃樱花动漫","type":3,"api":"csp_Anime1"        ,"searchable":1,"quickSearch":1,"filterable":1"jar":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
+
 {"key":"y","name":"------以下为网盘资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
