@@ -164,11 +164,7 @@
 	{"key":"yule","name":"------以下为娱乐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_biubiu_tingshuxb","name":"🎧听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
-{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/douyu.json"},
-{"key":"csp_xpath_qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
-{"key":"csp_xpath_88kanqiu","name": "⚽88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
-{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷〔直播〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/dj.json"},
-{"key": "csp_XYQBiu_17kan","name": "👀17kan〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/17kan.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/17kan.jar"},
+
 	
 	{"key":"xb","name":"------以下为XB资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
