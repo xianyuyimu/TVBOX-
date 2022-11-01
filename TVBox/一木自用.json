@@ -149,7 +149,7 @@
   
   
 "sites":[
-{"key":"csp_77","name":"👒酷云七七〔SP〕新Q群：783468715","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"👒酷云七七〔SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"douban","name":"🔍豆瓣荐片〔T4〕","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_douban","name":"🔍影视推荐〔T4〕","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -174,16 +174,7 @@
 {"key":"csp_Yj1211","name":"📱游戏直播〔SP〕","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},
 
 	
-{"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"ali","name":"------阿里资源请用ali.m3u8------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"哔哩","name":"------哔哩资源请用bili.json------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
-
-
-
-
-
-{"key":"空格3","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
@@ -226,11 +217,6 @@
 {"key":"csp_xp_tjyy","name":"💢奇优影院〔XB〕","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json"},
 {"key":"csp_biubiu_voflix","name":"💢vo fl ix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"},
 {"key":"csp_biubiu_完美看看影视","name":"💢完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"}
-
-
-
-
-
 ],
 
 
