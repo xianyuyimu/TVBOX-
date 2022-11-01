@@ -225,14 +225,10 @@
 {"key":"csp_xp_wnvod","name": "💢万能影视〔XB〕","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
 {"key":"csp_xp_tjyy","name":"💢奇优影院〔XB〕","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json"},
 {"key":"csp_biubiu_voflix","name":"💢vo fl ix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"},
-{"key":"csp_biubiu_完美看看影视","name":"💢完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"},
+{"key":"csp_biubiu_完美看看影视","name":"💢完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"}
 
 
-{"key":"空格4","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明2","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明3","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明4","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
+
 
 
 ],
