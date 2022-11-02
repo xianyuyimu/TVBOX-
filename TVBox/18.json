@@ -1,6 +1,11 @@
 {
   "spider": "http://tvmvip110.live/down.php/e43a84197bf0dcac50990fbc7f2ca470.jar",
+  
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdzE5MTU1OTE5MzUvVFZCT1gtL21haW4vVFZCb3gvMTgudHh0"]}]}],
+  
+  
   "sites": [
+
 
 
 
