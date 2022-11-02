@@ -193,7 +193,7 @@
 {"key":"csp_Upyunso","name":"up云搜(仅支持搜索）","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
 {"key":"mtv_xp_找找资源","name":"找找资源（仅支持搜索）","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"alist","name":"----暂不支持takagen版本----","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Alist1","name": "网盘仓库","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"一木仓库$https://zx.yimuapp.cn#米奇妙妙屋$https://anime.mqmmw.ga#晴园的宝藏库$https://alist.52qy.repl.co#一只鱼$https://alist.youte.ml#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://pan.szfx.top/down.php/285d80f6e19e2613ea305083f84bd95a.jar"},
+{"key": "csp_Alist1","name": "网盘仓库","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"一木仓库$http://zx.yimuapp.cn#米奇妙妙屋$https://anime.mqmmw.ga#晴园的宝藏库$https://alist.52qy.repl.co#一只鱼$https://alist.youte.ml#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://pan.szfx.top/down.php/285d80f6e19e2613ea305083f84bd95a.jar"},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
 
