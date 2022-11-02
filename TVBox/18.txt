@@ -5173,7 +5173,7 @@ Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 
 
 
-1测试频道_5566,#genre#
+1测试频道,#genre#
 松视1,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
 松视2,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
 松视3,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
