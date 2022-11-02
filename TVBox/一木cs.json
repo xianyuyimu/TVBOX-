@@ -187,6 +187,7 @@
 {"key":"csp_Yisou","name":"🔎易搜+原画（仅支持搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/40056/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"},
 {"key":"mtv_xp_云搜资源","name":"云搜资源（仅支持搜索）","type":3,"api":"csp_Upyunso"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"csp_Upyunso","name":"up云搜(仅支持搜索）","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
+{"key":"AliPS","name":"喵盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"mtv_xp_找找资源","name":"找找资源（仅支持搜索）","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"}
 
 ],
