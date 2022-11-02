@@ -1,7 +1,7 @@
 {
   "spider": "http://tvmvip110.live/down.php/e43a84197bf0dcac50990fbc7f2ca470.jar",
   
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdzE5MTU1OTE5MzUvVFZCT1gtL21haW4vVFZCb3gvMTgudHh0"]}]}],
+
   
   
   "sites": [
@@ -476,98 +476,7 @@
       "filterable": 0
     }
   ],
-  "lives": [
-    {
-      "group": "电影轮播",
-      "channels": [
-        {
-          "name": "周星星",
-          "urls": [
-            "http://wabc.ml/huya.php?id=11342412"
-          ]
-        },
-        {
-          "name": "经典贺岁片",
-          "urls": [
-            "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8"
-          ]
-        },
-        {
-          "name": "古天乐影院",
-          "urls": [
-            "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8"
-          ]
-        },
-        {
-          "name": "成龙作品集",
-          "urls": [
-            "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8"
-          ]
-        },
-        {
-          "name": "张国荣作品集",
-          "urls": [
-            "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8"
-          ]
-        },
-        {
-          "name": "周润发影院",
-          "urls": [
-            "http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8"
-          ]
-        },
-        {
-          "name": "云上电影院",
-          "urls": [
-            "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8"
-          ]
-        },
-        {
-          "name": "刘德华影院",
-          "urls": [
-            "http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8"
-          ]
-        },
-        {
-          "name": "刘亦菲影视展播",
-          "urls": [
-            "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8"
-          ]
-        },
-        {
-          "name": "TVB剧场",
-          "urls": [
-            "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8"
-          ]
-        },
-        {
-          "name": "盗墓方法论",
-          "urls": [
-            "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8"
-          ]
-        },
-        {
-          "name": "试胆大会",
-          "urls": [
-            "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8"
-          ]
-        },
-        {
-          "name": "军旅剧场",
-          "urls": [
-            "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8"
-          ]
-        },
-        {
-          "name": "SNH48剧场公演",
-          "urls": [
-            "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8"
-          ]
-        },
-        {
-          "name": "追剧少女",
-          "urls": [
-            "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8"
+   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdzE5MTU1OTE5MzUvVFZCT1gtL21haW4vVFZCb3gvMTgudHh0"]}]}],
           ]
         }
       ]
