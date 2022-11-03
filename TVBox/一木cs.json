@@ -185,6 +185,46 @@
 {"key":"kq","name":"------以下为动漫资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸动漫大全〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Dm84","name":"🚌动漫巴士〔SP〕","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+    {
+      "key": "mtv_xp_动漫直链",
+      "name": "动漫01｜动漫直链　",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/动漫直链.json"
+    },
+    {
+      "key": "mtv_xp_异次动漫",
+      "name": "🐯异次动漫　",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/异次动漫.json"
+    },
+    {
+      "key": "mtv_xp_动漫岛源",
+      "name": "😸动漫岛源　",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/动漫岛源.json"
+    },
+    {
+      "key": "mtv_xp_去看动漫",
+      "name": "🐮去看动漫　",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/去看动漫.json"
+    },
 
 {"key":"djk","name":"------以下为直播资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XPath_鹅直播","name":"⚽️体育直播〔SP〕","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/qezb.json"},
