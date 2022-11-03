@@ -187,7 +187,7 @@
 {"key":"csp_Dm84","name":"🚌动漫巴士〔SP〕","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "mtv_xp_动漫直链",
-      "name": "动漫01｜动漫直链　",
+      "name": "🐷动漫直链　",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
