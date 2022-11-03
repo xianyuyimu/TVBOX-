@@ -4,7 +4,7 @@
 
 
 {
-"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1030.jpg;md5;ad64799f67735487fd38d154926e58e1",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/jar/1007.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdzE5MTU1OTE5MzUvVFZCT1gtL21haW4vVFZCb3gv5LiA5pyo55u05pKt5rqQLnR4dA=="]}]}],
@@ -175,13 +175,13 @@
 
 	{"key":"xb","name":"------以下为XB资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_biubiu_OmoFun动漫","name":"👑OmoFun动漫〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/OmoFun动漫.json"},
-{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢真 不 卡〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json"},
-{"key":"csp_xp_789kp","name":"💢789 看片〔XB〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/789kp.json"},
-{"key":"csp_xp_wnvod","name": "💢万能影视〔XB〕","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
-{"key":"csp_xp_tjyy","name":"💢奇优影院〔XB〕","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json"},
-{"key":"csp_biubiu_voflix","name":"💢vo fl ix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"},
-{"key":"csp_biubiu_完美看看影视","name":"💢完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"},
+{"key":"csp_biubiu_OmoFun动漫","name":"👑OmoFun动漫〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/OmoFun动漫.json"},
+{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢真 不 卡〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/zhenbuka.json"},
+{"key":"csp_xp_789kp","name":"💢789 看片〔XB〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/789kp.json"},
+{"key":"csp_xp_wnvod","name": "💢万能影视〔XB〕","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/wnvod.json"},
+{"key":"csp_xp_tjyy","name":"💢奇优影院〔XB〕","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/huigutongying.json"},
+{"key":"csp_biubiu_voflix","name":"💢vo fl ix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/voflix.json"},
+{"key":"csp_biubiu_完美看看影视","name":"💢完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/完美看看.json"},
 {"key":"mtv_pc_追剧喵源","name":"💢追剧喵源〔XB〕","type":3,"api":"csp_ZJMiao"        ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
 {"key":"mtv_pc_在线之家","name":"💢在线之家〔XB〕","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 
