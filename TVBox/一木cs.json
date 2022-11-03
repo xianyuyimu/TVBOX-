@@ -245,7 +245,9 @@
 
 	{"key":"yule","name":"------以下为娱乐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_biubiu_tingshuxb","name":"🎧听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"}
+{"key":"csp_biubiu_tingshuxb","name":"🎧听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
+	{"key":"yule","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"yule","name":"------一木缝合源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
 
 
 
