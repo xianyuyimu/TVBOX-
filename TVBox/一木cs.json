@@ -187,6 +187,7 @@
 {"key":"csp_biubiu_完美看看影视","name":"💢完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/完美看看.json"},
 {"key":"mtv_pc_追剧喵源","name":"💢追剧喵源〔XB〕","type":3,"api":"csp_ZJMiao"        ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
 {"key":"mtv_pc_在线之家","name":"💢在线之家〔XB〕","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
+{"key":"11","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"7","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"kq","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸动漫大全〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
