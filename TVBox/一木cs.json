@@ -166,7 +166,7 @@
 {"key":"csp_Dy555","name":"5️⃣555影视(仅支持搜索）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F13C4E7787CFE144974C0625EDD12C4C"},
 {"key":"csp_fant","name":"🍙饭团(仅支持搜索）","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F13C4E7787CFE144974C0625EDD12C4C"},
 
-
+{"key":"5","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"jjnnj","name":"🤖以下为仅支持官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"4","name":"🤖以下为仅支持官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🐧腾(官SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/qq.jar"},
