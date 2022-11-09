@@ -4,7 +4,7 @@
 
 
 {
-"spider":"https://zx.yimuapp.cn/d/%E6%9D%82%E7%89%A9/1007.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/jar/1007.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdzE5MTU1OTE5MzUvVFZCT1gtL21haW4vVFZCb3gv5LiA5pyo55u05pKt5rqQLnR4dA=="]}]}],
