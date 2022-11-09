@@ -5,7 +5,7 @@
 
 {
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/jar/1007.jar",
-
+"spider":"https://download.kstore.space/download/3376/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdzE5MTU1OTE5MzUvVFZCT1gtL21haW4vVFZCb3gv5LiA5pyo55u05pKt5rqQLnR4dA=="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
@@ -186,6 +186,7 @@
 {"key":"mtv_pc_在线之家","name":"💢在线之家〔XB〕","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 {"key":"csp_biubiu_骚火电影","name":"💢骚火影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/602/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B10713.json?sign=yZEF5NVt9quZmT_CncWseaSvJ8RVSE4QdXm2x7ynlTg%3D%3A0"},
 {"key":"csp_xbb_达达龟","name":"💢达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/达达龟.json"},
+{"key": "💢剧荒(XB)","name": "剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"11","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"7","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
