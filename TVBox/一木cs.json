@@ -4,7 +4,7 @@
 
 
 {
-"spider":"https://zx.yimuapp.cn/d/%E6%9D%82%E7%89%A9/1007.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/jar/1007.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdzE5MTU1OTE5MzUvVFZCT1gtL21haW4vVFZCb3gv5LiA5pyo55u05pKt5rqQLnR4dA=="]}]}],
@@ -143,7 +143,8 @@
   				{"key":"qdd","name":"","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"t4public","name":"🔍豆瓣榜单1〔T4〕","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"T4_douban","name":"🔍豆瓣榜单2〔T4〕","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"douban","name":"🔍豆瓣榜单3〔T4〕","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=868fc73ad70d4b958bbbda93330c6c35&timeout=6","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"douban","name":"🔍豆瓣榜单3〔T4〕","type":4,"api":"
+  ","searchable":1,"quickSearch":1,"filterable":0},
   
   {"key":"li","name":"------以下为推荐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "追剧喵","name": "🐞追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
