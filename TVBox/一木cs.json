@@ -158,7 +158,7 @@
 {"key":"csp_Auete" ,"name":"🐼Auete〔SP〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"👶图图影视〔SP〕","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":" 🌈月光宝盒〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/5660/360.jar?sign=UvvtkxrYYz1CQrSzwD98cpU4wQwTatQcDYOTRQ8x3wU%3D%3A0"},
-{"key":"mtv_pc_追剧达人","name":"🌲追剧达人","type":3,"api":"csp_Zjdr"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
+{"key":"mtv_pc_追剧达人","name":"🌲追剧达人〔SP〕","type":3,"api":"csp_Zjdr"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 {"key":"mjxq_spider","name":"🌏美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗可乐影视〔SP〕","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"💧蓝光影院〔SP〕","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F13C4E7787CFE144974C0625EDD12C4C"},
@@ -258,7 +258,16 @@
 {"key":"8","name":"🤖以下为直播资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"djk","name":"🤖以下为直播资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XPath_鹅直播","name":"⚽️体育直播〔SP〕","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/qezb.json"},
-{"key":"csp_Yj1211","name":"📱游戏直播〔SP〕","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},
+{"key":"csp_Yj1211","name":"📱游戏直播〔SP〕","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},{
+      "key": "csp_XYQ_lu1",
+      "name": "️📺电视直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://52bsj.vip:81/api/v3/file/get/61542/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json?sign=JxgjHlxu8_IP1SK2AbvPOnG3dnOnOtvJE4V3TM0Vp1w%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"
+    },
 
 
 {"key":"9","name":"🤖以下为网盘资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
@@ -276,15 +285,6 @@
 
 	{"key":"yule","name":"🤖以下为娱乐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {
-      "key": "csp_XYQ_lu1",
-      "name": "️📺电视直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/61542/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json?sign=JxgjHlxu8_IP1SK2AbvPOnG3dnOnOtvJE4V3TM0Vp1w%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"
-    },{
 		"key": "py_cctv",
 		"name": "❤️爱央视",
 		"type": 3,
