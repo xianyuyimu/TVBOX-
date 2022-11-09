@@ -148,7 +148,6 @@
   {"key":"1","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"2","name":"🤖以下为推荐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"li","name":"🤖以下为推荐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "追剧喵","name": "🐞追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_LiteApple","name":"🍎小 苹 果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key": "厂长影视","name": "️🕵厂长资源〔SP〕","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
