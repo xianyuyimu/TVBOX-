@@ -140,14 +140,15 @@
 "sites":[
   
   		{"key":"djdjs","name":"🙀一木缝合源","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
+  		  		{"key":"3","name":"🙀仅供自用","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
   				{"key":"qdd","name":"","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"t4public","name":"🔍豆瓣榜单1〔T4〕","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"T4_douban","name":"🔍豆瓣榜单2〔T4〕","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"douban","name":"🔍豆瓣榜单3〔T4〕","type":4,"api":"
   ","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"1","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"2","name":"------以下为推荐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"li","name":"------以下为推荐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"2","name":"🤖以下为推荐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"li","name":"🤖以下为推荐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "追剧喵","name": "🐞追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_LiteApple","name":"🍎小 苹 果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key": "厂长影视","name": "️🕵厂长资源〔SP〕","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -167,7 +168,8 @@
 {"key":"csp_fant","name":"🍙饭团(仅支持搜索）","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F13C4E7787CFE144974C0625EDD12C4C"},
 
 
-{"key":"jjnnj","name":"------以下为仅支持官方资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"jjnnj","name":"🤖以下为仅支持官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"4","name":"🤖以下为仅支持官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🐧腾(官SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/qq.jar"},
 {"key":"csp_MGTV","name":"🍋芒TV(官SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/MGIQIYI.jar"},
 {"key":"csp_IQIYI","name":"🥝爱(官SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/MGIQIYI.jar"},
