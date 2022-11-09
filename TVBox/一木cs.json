@@ -192,7 +192,7 @@
 {"key":"csp_biubiu_骚火电影","name":"💢骚火影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/602/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B10713.json?sign=yZEF5NVt9quZmT_CncWseaSvJ8RVSE4QdXm2x7ynlTg%3D%3A0"},
 {"key":"csp_xbb_达达龟","name":"💢达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/达达龟.json"},
 {"key": "剧荒","name": "💢剧荒(XB)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"11","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+
 //2号包
 {"key": "csp_xpath_jbb","name": "💢剧白白蓝光(XB)",	"type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/61554/%E5%89%A7%E7%99%BD%E7%99%BD.json?sign=51baN2KX0JP1vtMZVJeOOcNqEP0a9eTNHo0eAQZw-Ak%3D%3A0"},
 {"key":"mtv_pc_焦炭影视","name":"💢焦炭影视(XB)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
@@ -205,7 +205,9 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"
-	},
+	},{"key":"11","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+	
+	
 {"key":"7","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"kq","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸动漫大全〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
