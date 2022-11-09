@@ -191,11 +191,13 @@
 {"key":"mtv_pc_在线之家","name":"💢在线之家〔XB〕","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 {"key":"csp_biubiu_骚火电影","name":"💢骚火影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/602/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B10713.json?sign=yZEF5NVt9quZmT_CncWseaSvJ8RVSE4QdXm2x7ynlTg%3D%3A0"},
 {"key":"csp_xbb_达达龟","name":"💢达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/达达龟.json"},
-{"key": "剧荒","name": "剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "剧荒","name": "💢剧荒(XB)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"11","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 //2号包
-
-
+{"key": "csp_xpath_jbb","name": "💢剧白白蓝光(XB)",	"type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/61554/%E5%89%A7%E7%99%BD%E7%99%BD.json?sign=51baN2KX0JP1vtMZVJeOOcNqEP0a9eTNHo0eAQZw-Ak%3D%3A0"},
+{"key":"mtv_pc_焦炭影视","name":"💢焦炭影视(XB)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
+	{"key":"csp_293","name":"🌈宝盒4K专区","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/leevi/apps/raw/branch/main/jar/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},
+	{"key":"csp_biubiu_小强影院","name":"🎯宝盒影迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/3941/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json?sign=k_2eHVclgKbKUwDftUYaqOR8vQmSpX5dRrUIp551O-w%3D%3A0"},
 {"key":"7","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"kq","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸动漫大全〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -263,7 +265,16 @@
 	{"key":"10","name":"🤖以下为娱乐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 	{"key":"yule","name":"🤖以下为娱乐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-
+{
+      "key": "csp_XYQ_lu1",
+      "name": "️📺电视直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://52bsj.vip:81/api/v3/file/get/61542/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json?sign=JxgjHlxu8_IP1SK2AbvPOnG3dnOnOtvJE4V3TM0Vp1w%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"
+    },
 {"key":"csp_biubiu_tingshuxb","name":"🎧听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"}
 ],
 
