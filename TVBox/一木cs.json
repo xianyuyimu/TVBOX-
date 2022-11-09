@@ -196,8 +196,16 @@
 //2号包
 {"key": "csp_xpath_jbb","name": "💢剧白白蓝光(XB)",	"type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/61554/%E5%89%A7%E7%99%BD%E7%99%BD.json?sign=51baN2KX0JP1vtMZVJeOOcNqEP0a9eTNHo0eAQZw-Ak%3D%3A0"},
 {"key":"mtv_pc_焦炭影视","name":"💢焦炭影视(XB)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
-	{"key":"csp_293","name":"🌈宝盒4K专区","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/leevi/apps/raw/branch/main/jar/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},
-	{"key":"csp_biubiu_小强影院","name":"🎯宝盒影迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/3941/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json?sign=k_2eHVclgKbKUwDftUYaqOR8vQmSpX5dRrUIp551O-w%3D%3A0"},
+{"key":"csp_biubiu_小强影院","name":"💢宝盒影迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/3941/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json?sign=k_2eHVclgKbKUwDftUYaqOR8vQmSpX5dRrUIp551O-w%3D%3A0"},{
+		"key": "py_bilimd",
+		"name": "💢B站影视(XB)",
+		"type": 3,
+		"api": "py_bilimd",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"
+	},
 {"key":"7","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"kq","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸动漫大全〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -258,7 +266,7 @@
 {"key":"mtv_xp_云搜资源","name":"云搜资源（仅支持搜索）","type":3,"api":"csp_Upyunso"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"csp_Upyunso","name":"up云搜(仅支持搜索）","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
 {"key":"mtv_xp_找找资源","name":"找找资源（仅支持搜索）","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
-
+{"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/40056/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"},
 {"key": "csp_Alist1","name": "网盘仓库","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#晴园的宝藏库$https://alist.52qy.repl.co#梓澪$https://zi0.cc#木偶$https://www.kugutsu.ml#课程搜索$https://www.souke365.cn#博哥$http://www.top12345.top#Eren's$https://alist.sharefiles.repl.co#资源小站$https://pan.142856.xyz#小兵组网盘影视$https://6vv.app#星梦$https://pan.bashroot.top#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#资源小站$https://960303.xyz#Alist测试$https://ali.liucn.repl.co#秋雨分享$https://share.laowang.me#一只鱼$https://alist.youte.ml#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://pan.szfx.top/down.php/285d80f6e19e2613ea305083f84bd95a.jar"},
 
 
@@ -274,7 +282,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://52bsj.vip:81/api/v3/file/get/61542/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json?sign=JxgjHlxu8_IP1SK2AbvPOnG3dnOnOtvJE4V3TM0Vp1w%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"
-    },
+    },{
+		"key": "py_cctv",
+		"name": "❤️爱央视",
+		"type": 3,
+		"api": "py_cctv",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_cctv.py"
+	},
 {"key":"csp_biubiu_tingshuxb","name":"🎧听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"}
 ],
 
