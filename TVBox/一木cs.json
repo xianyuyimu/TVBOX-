@@ -145,7 +145,8 @@
   {"key":"T4_douban","name":"🔍豆瓣榜单2〔T4〕","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"douban","name":"🔍豆瓣榜单3〔T4〕","type":4,"api":"
   ","searchable":1,"quickSearch":1,"filterable":0},
-  
+  {"key":"1","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"2","name":"------以下为推荐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"li","name":"------以下为推荐资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "追剧喵","name": "🐞追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_LiteApple","name":"🍎小 苹 果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
