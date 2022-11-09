@@ -167,8 +167,8 @@
 {"key":"csp_fant","name":"🍙饭团(仅支持搜索）","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F13C4E7787CFE144974C0625EDD12C4C"},
 
 {"key":"5","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"jjnnj","name":"🤖以下为仅支持官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"4","name":"🤖以下为仅支持官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"jjnnj","name":"🤖以下为官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"4","name":"🤖以下为官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🐧腾(官SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/qq.jar"},
 {"key":"csp_MGTV","name":"🍋芒TV(官SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/MGIQIYI.jar"},
 {"key":"csp_IQIYI","name":"🥝爱(官SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/MGIQIYI.jar"},
@@ -176,7 +176,7 @@
 {"key":"PpTV","name":"📺PP（官）","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},
 {"key":"so","name":"⚽搜gou(解析)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","综艺","动漫","少儿","其他片","其他剧"],"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/jgy.jar"},
 {"key":"6","name":"🤖以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"xb","name":"以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"xb","name":"🤖以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_biubiu_OmoFun动漫","name":"👑OmoFun动漫〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/OmoFun动漫.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢真 不 卡〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/zhenbuka.json"},
