@@ -336,9 +336,9 @@
 
 {"key":"9","name":"🤖以下为网盘资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"y","name":"🤖以下为网盘资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
+{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%B0%8F%E7%BA%B8%E6%9D%A1.jar"},
 {"key":"csp_Yisou","name":"🔍易搜+原画（仅支持搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E6%98%93%E6%90%9C.jar"},
-{"key":"mtv_xp_云搜资源","name":"云搜资源（仅支持搜索）","type":3,"api":"csp_Upyunso"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
+
 {"key":"csp_Upyunso","name":"☁️UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/up%E4%BA%91%E6%90%9C.jar"},
 {"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E6%89%BE%E8%B5%84%E6%BA%90.jar"},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/40056/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"},
