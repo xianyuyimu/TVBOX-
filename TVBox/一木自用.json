@@ -340,7 +340,7 @@
 
 {"key":"9","name":"🤖以下为网盘资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"y","name":"🤖以下为网盘资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%B0%8F%E7%BA%B8%E6%9D%A1.jar"},
+{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98.jar"},
 {"key":"AliPS","name":"😻盘搜〔仅搜索〕","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "","jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98.jar"},
 {"key":"FindZY","name":"🦊找资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "","jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98.jar"},
 {"key":"csp_Yisou","name":"🔎易搜+原画（仅支持搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E6%98%93%E6%90%9C.jar"},
