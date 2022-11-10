@@ -11,6 +11,8 @@
 //2号包
 "spider": "https://agit.ai/66666/mao/raw/branch/master/jar/XZT.jar;md5;  7d2f56dae644555bf5ad6c8bde537bdf",
 //3号包
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E7%9B%B4%E6%92%AD.jar",
+//直播包
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 
@@ -321,8 +323,10 @@
     {"key":"13","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"8","name":"🤖以下为直播资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"djk","name":"🤖以下为直播资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XPath_鹅直播","name":"⚽️体育直播〔SP〕","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/qezb.json"},
-{"key":"csp_Yj1211","name":"📱游戏直播〔SP〕","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},{
+{"key":"csp_XPath_鹅直播","name":"⚽️体育直播〔SP〕","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/体育直播.json"},
+{"key":"csp_Yj1211","name":"📱游戏直播〔SP〕","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},
+{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/斗鱼.json"},
+{
       "key": "csp_XYQ_lu1",
       "name": "️📺电视直播",
       "type": 3,
@@ -331,7 +335,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://52bsj.vip:81/api/v3/file/get/61542/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json?sign=JxgjHlxu8_IP1SK2AbvPOnG3dnOnOtvJE4V3TM0Vp1w%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"
-    },{"key":"14","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+    },
 
 
 {"key":"9","name":"🤖以下为网盘资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
