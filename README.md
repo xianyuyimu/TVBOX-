@@ -7,8 +7,7 @@
 ##### 2.如果使用本仓库请复刻，请勿传播
 
 ##### 3.本仓库在线接口
-[接口](https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/一木自用.json
-)
+[接口](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json)
 ##### 4.其他文件推荐使用GitHub文件加速
 [网站](https://ghproxy.com/)
 
