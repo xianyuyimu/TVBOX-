@@ -11,9 +11,7 @@
 //2号包
 "spider": "https://agit.ai/66666/mao/raw/branch/master/jar/XZT.jar;md5;  7d2f56dae644555bf5ad6c8bde537bdf",
 //3号包
-"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd",
-"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0828.jar",
-//易搜资源包
+
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 
@@ -342,7 +340,7 @@
 {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%B0%8F%E7%BA%B8%E6%9D%A1.jar"},
 {"key":"AliPS","name":"😻盘搜〔仅搜索〕","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "","jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98.jar"},
 {"key":"FindZY","name":"🦊找资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "","jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98.jar"},
-{"key":"csp_Yiso","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c3895f91c81741959c22feb5fe3a5def"},
+{"key":"csp_Yisou","name":"🔎易搜+原画（仅支持搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/40056/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"},
 
 {"key":"csp_Upyunso","name":"☁️UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/up%E4%BA%91%E6%90%9C.jar"},
 
