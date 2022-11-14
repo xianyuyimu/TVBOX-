@@ -14,8 +14,7 @@
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E7%9B%B4%E6%92%AD.jar",
 //直播包
 "wallpaper":"http://maoyingshi.cc/api.php",
-
-
+//网盘仓库2
 // 每日一言 (随机显示欢迎语)
 "dairyWords": [{
     "name": "rating",
