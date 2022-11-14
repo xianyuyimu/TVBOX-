@@ -178,7 +178,7 @@
 
 {"key":"jjnnj","name":"🤖以下为官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"4","name":"🤖以下为官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
--{"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
  //3号包
 {"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
