@@ -4,7 +4,7 @@
 
 
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/jar/1007.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E6%8E%A8%E8%8D%90.jar",
 "spider":"https://download.kstore.space/download/3376/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
 //1号包
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdzE5MTU1OTE5MzUvVFZCT1gtL21haW4vVFZCb3gv5LiA5pyo55u05pKt5rqQLnR4dA=="]}]}],
