@@ -249,7 +249,7 @@
       ]
       ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
     },
-	{"key":"csp_SP360","name":"💘360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_SP361","name":"💘360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 //官方包
 {"key":"16","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"6","name":"🤖以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
