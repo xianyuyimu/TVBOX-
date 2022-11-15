@@ -175,12 +175,39 @@
 
 {"key":"jjnnj","name":"🤖以下为官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"4","name":"🤖以下为官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"csp_MGTV","name":"🥭芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{
+	{
+      "key": "SPQQ",
+      "name": "🐧腾讯(官)",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
+    },
+	{
+      "key": "SPIQY",
+      "name": "🥝爱奇艺(官)",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
+    },
+    {
+      "key": "MGT",
+      "name": "🥭芒果(官)",
+      "type": 3,
+      "api": "csp_Mgtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
+    },
+    {
       "key": "youku",
-      "name": "👑优酷（官）",
+      "name": "👑优酷(官)",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
@@ -210,41 +237,10 @@
         "少儿",
         "其他片"
       ]
-    },
-    {
-      "key": "PpTV",
-      "name": "📺PPTV（官）",
-      "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "动画片",
-        "武侠片",
-        "少儿",
-        "其他片"
-      ]
+      ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
     },
 //3号包
-{"key":"16","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"16","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"6","name":"🤖以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"xb","name":"🤖以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢真 不 卡〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/zhenbuka.json"},
