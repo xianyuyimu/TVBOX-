@@ -13,5 +13,14 @@
 5.其他文件推荐使用GitHub文件加速
 [网站](https://ghproxy.com/)
 
+### 空壳版本
+1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
+
+2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20221005-2255-takagen99.apk](https://liucn.lanzouv.com/iXLfq0dccr3i)
+
+3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
+
+4.![box]() 二次开发改版 - [手机竖屏版](https://liucn.lanzouv.com/i7otG0cmgvob)
+
 ![Image](https://m.360buyimg.com/babel/jfs/t1/98218/22/27501/307340/6360ceffE429b70b9/5cbcfd59a336c3ca.jpg)
 
