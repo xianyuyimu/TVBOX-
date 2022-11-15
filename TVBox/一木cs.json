@@ -157,14 +157,15 @@
     {"key":"2","name":"🤖以下为推荐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"li","name":"🤖以下为推荐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小 苹 果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-{
-      "key": "csp_CZSPP",
+    {
+      "key": "py_czspp",
       "name": "️🕵厂长资源〔SP〕",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "py_czspp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/厂长.py"
     },
 {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
 {"key":"csp_Bttoo","name":"✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
