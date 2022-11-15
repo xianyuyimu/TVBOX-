@@ -249,9 +249,9 @@
       ]
       ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
     },
-	
+	{"key":"csp_SP360","name":"💘360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 //官方包
-//{"key":"16","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"16","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"6","name":"🤖以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"xb","name":"🤖以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢真 不 卡〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/sh/MaooXB/zhenbuka.json"},
@@ -439,11 +439,27 @@
 				}
 			}
 		},
-		
-		{
-			"name": "回响解析",
-			"type": 1,
-			"url": "http://110.42.2.115:880/analysis/json/?uid=2255&my=cdghijkmrtyFHRSU27&url="},
+	{
+		"name": "rx2",
+		"type": 1,
+		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+	}, {
+		"name": "可与",
+		"type": 1,
+		"url": "http://newjiexi.gotka.top/keyu3.php?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	}, 
+	{
+		"name": "酷享影视",
+		"type": 1,
+		"url": "http://pandown.pro/app/kxjx.php?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	}, 
+
 		{
 			"name": "猫咪解析",
 			"type": 0,
