@@ -147,11 +147,10 @@
   
   		{"key":"djdjs","name":"🙀一木缝合源","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
   		  		{"key":"3","name":"🙀仅供自用","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"t4public","name":"🔍豆瓣榜单1〔T4〕","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-  {"key":"T4_douban","name":"🔍豆瓣榜单2〔T4〕","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"douban","name":"🔍豆瓣榜单3〔T4〕","type":4,"api":"
-  ","searchable":1,"quickSearch":1,"filterable":0},
-  {"key":"1","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+  		  		  {"key":"T4_douban","name":"🔍豆瓣榜单1〔T4〕","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"t4public","name":"🔍豆瓣榜单2〔T4〕","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+
+
   
   
     {"key":"2","name":"🤖以下为推荐资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
