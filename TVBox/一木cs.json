@@ -4,6 +4,8 @@
 
 
 {
+  "spider": "https://codeberg.org/leevi/duo/raw/branch/main/jar/duov.jar;md5;89c9eaec380dc16ec274b772346270ba",
+//官方包
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/xzy1029.jar",
 //推荐包
 "spider":"https://download.kstore.space/download/3376/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
