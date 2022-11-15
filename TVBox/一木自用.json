@@ -271,7 +271,9 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"
-	},{"key":"11","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+	},
+	{"key":"csp_biubiu皮皮泡","name":"💢皮皮泡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/皮皮泡.json"},
+	//{"key":"11","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 	
 	
 {"key":"7","name":"🤖以下为动漫资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
