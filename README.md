@@ -20,7 +20,7 @@
 
 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
 
-4.![box]() 二次开发 - [手机竖屏版](https://support.qq.com/embed/phone/428437/faqs/127190)
+4.![box](https://m.360buyimg.com/babel/jfs/t1/162781/30/28931/2875/6373f2baEf0eb98ec/2c8b0baabc5c7afa.png) 二次开发 - [手机竖屏版](https://support.qq.com/embed/phone/428437/faqs/127190)
 
 
 
