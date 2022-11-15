@@ -176,7 +176,7 @@
 
 {"key":"jjnnj","name":"🤖以下为官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"4","name":"🤖以下为官方资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{
+	{
       "key": "SPQQ",
       "name": "🐧腾讯(官)",
       "type": 3,
@@ -184,8 +184,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
     },
-    {
+	{
       "key": "SPIQY",
       "name": "🥝爱奇艺(官)",
       "type": 3,
@@ -193,6 +194,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+      ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
     },
     {
       "key": "MGT",
@@ -202,6 +204,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+      ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
     },
     {
       "key": "youku",
@@ -235,7 +238,9 @@
         "少儿",
         "其他片"
       ]
+      ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/jar/%E5%AE%98%E6%96%B9.jar"
     },
+	
 //官方包
 {"key":"16","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"6","name":"🤖以下为XB资源🤖","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
