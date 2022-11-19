@@ -157,15 +157,14 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "T4_douban",
+		},{
+			"key": "douban",
 			"name": "🔍豆瓣榜单1〔T4〕",
 			"type": 4,
-			"api": "http://top.fuqizhishi.com/vod",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
+			"api": "http://t4.ganggang.live:3812/vod",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0
 		},
 		{
 			"key": "t4public",
@@ -460,7 +459,7 @@
 		},
 		{
 			"key": "csp_SP361",
-			"name": "💘360〔SP〕",
+			"name": "💘360(官)",
 			"type": 3,
 			"api": "csp_SP360",
 			"searchable": 1,
@@ -648,7 +647,7 @@
 		},
 		{
 			"key": "csp_Anime1",
-			"name": "🌸动漫大全〔SP〕",
+			"name": "🌸动漫大全",
 			"type": 3,
 			"api": "csp_Anime1",
 			"searchable": 1,
@@ -657,7 +656,7 @@
 		},
 		{
 			"key": "csp_Dm84",
-			"name": "🚌动漫巴士〔SP〕",
+			"name": "🚌动漫巴士",
 			"type": 3,
 			"api": "csp_Dm84",
 			"searchable": 1,
@@ -760,7 +759,7 @@
 		},
 		{
 			"key": "csp_XPath_鹅直播",
-			"name": "⚽️体育直播〔SP〕",
+			"name": "⚽️体育直播",
 			"type": 3,
 			"api": "csp_XPath3",
 			"searchable": 0,
@@ -770,23 +769,63 @@
 		},
 		{
 			"key": "csp_Yj1211",
-			"name": "📱游戏直播〔SP〕",
+			"name": "📱游戏直播",
 			"type": 3,
 			"api": "csp_Yj1211",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_biubiu_斗鱼",
-			"name": "🐬斗鱼〔直播〕",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼直播.json"
-		},
+{
+		"key": "py_huya",
+		"name": "🐯虎牙",
+		"type": 3,
+		"api": "py_huya",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙.py"
+	},
+  {
+    "key":"csp_XYQBiu_虎牙直播",
+    "name":"🐯虎牙直播",
+    "type":3,
+    "api":"XYQBiu",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙直播.json"
+    },
+ {
+		"key": "py_douyu",
+		"name": "🦈斗鱼",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼.py"
+	},
+ {
+      "key": "csp_biubiu_斗鱼",
+      "name": "🦈斗鱼直播",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼直播.json"
+    },
+    {
+      "key": "网易CC",
+      "name": "🐠网易CC",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/网易cc.json"
+    },
 		{
 			"key": "csp_XYQ_lu1",
 			"name": "️📺电视直播",
@@ -935,7 +974,26 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/爱央视.py"
-		},
+		},{
+      "key": "csp_xpath_酷狗MV",
+      "name": "🐶酷狗MV",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷狗mv.json"
+    },
+    {
+      "key": "csp_xpath_kuqimv",
+      "name": "🎤酷奇MV",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷奇mv.json"
+    },
 		{
 			"key": "csp_biubiu_tingshuxb",
 			"name": "🎧听书网",
