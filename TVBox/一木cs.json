@@ -616,6 +616,17 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/LIBVIO.json"
+		},{"key":"csp_XBPQTVB影视","name":"️💢TVB云播(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/TVB云播.json",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/TVB%E4%BA%91%E6%92%AD.jar"
+		},
+			{
+			"key": "52",
+			"name": "",
+			"type": 3,
+			"api": "360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 	{
 			"key": "7",
