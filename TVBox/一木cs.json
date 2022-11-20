@@ -244,7 +244,7 @@
 			"filterable": 1,
 			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E7%88%B1%E7%9C%8B.txt"
-		},
+		},{"key":"Pang","name":"🐯胖虎〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%83%96%E8%99%8E.jar"},
 		{
 			"key": "csp_xpNmys",
 			"name": "🌾农民〔SP〕",
@@ -373,7 +373,15 @@
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
 		},
 		//蓝光影院包
-	
+	{
+			"key": "65",
+			"name": "",
+			"type": 3,
+			"api": "360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 
 		{
 			"key": "jjnnj",
