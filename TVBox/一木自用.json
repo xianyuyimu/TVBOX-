@@ -264,17 +264,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
-		{
-			"key": "csp_AppTT",
-			"name": "👶图图影视〔SP〕",
-			"type": 3,
-			"api": "csp_AppTT",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
 		{
 			"key": "csp_SP360",
 			"name": " 🌈月光宝盒〔SP〕",
@@ -373,15 +362,7 @@
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
 		},
 		//蓝光影院包
-		{
-			"key": "65",
-			"name": "",
-			"type": 3,
-			"api": "360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+
 
 		{
 			"key": "jjnnj",
@@ -626,15 +607,8 @@
 		},{"key":"csp_XBPQTVB影视","name":"️💢TVB云播(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/TVB云播.json",
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/TVB%E4%BA%91%E6%92%AD.jar"
 		},
-			{
-			"key": "52",
-			"name": "",
-			"type": 3,
-			"api": "360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		{"key":"NoSearch_Bdys_spider","name":"️💢哔滴影视(XB）","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"},
+		
 	{
 			"key": "7",
 			"name": "🤖以下为动漫资源🤖",
