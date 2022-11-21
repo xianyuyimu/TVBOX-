@@ -574,16 +574,6 @@
 		},
 
 		//2号包
-		{
-			"key": "mtv_pc_焦炭影视",
-			"name": "💢焦炭影视(XB)",
-			"type": 3,
-			"api": "csp_Cokemv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.jar"
-		},
 	 {
 			"key": "py_bilimd",
 			"name": "💢B站影视(XB)",
