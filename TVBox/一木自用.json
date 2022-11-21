@@ -574,16 +574,7 @@
 		},
 
 		//2号包
-		{
-			"key": "mtv_pc_焦炭影视",
-			"name": "💢焦炭影视(XB)",
-			"type": 3,
-			"api": "csp_Cokemv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.jar"
-		},
+
 	 {
 			"key": "py_bilimd",
 			"name": "💢B站影视(XB)",
@@ -607,7 +598,8 @@
 		},{"key":"csp_XBPQTVB影视","name":"️💢TVB云播(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/TVB云播.json",
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/TVB%E4%BA%91%E6%92%AD.jar"
 		},
-		{"key":"NoSearch_Bdys_spider","name":"️💢哔滴影视(XB）","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"},
+		{"key":"NoSearch_Bdys_spider","name":"️💢哔滴影视(XB）","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"},{"key":"csp_Cokem","name":"💢Cokemv(XB）","type":3,"api":"csp_Cokemv","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"},
+		//哔滴影视包
 		
 	{
 			"key": "7",
