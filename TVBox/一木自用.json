@@ -206,16 +206,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "py_czspp",
-			"name": "️🕵厂长资源〔SP〕",
-			"type": 3,
-			"api": "py_czspp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/厂长.py"
-		},
+	{"key": "厂长影视","name": "️🕵厂长资源〔SP〕","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"},
 		{
 			"key": "csp_Ysgc",
 			"name": "🎥影视工厂〔SP〕",
