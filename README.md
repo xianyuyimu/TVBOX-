@@ -4,13 +4,15 @@
 
 2.如果使用本仓库请复刻，请勿传播
 
-3.本仓库在线接口
+3.有失效可以提Issue，有时间就修
+
+4.本仓库在线接口
 [接口](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json)
 
-4.推荐使用阿里4k源
+5.推荐使用阿里4k源
 ![Image](https://m.360buyimg.com/babel/jfs/t1/18649/35/19050/90124/6373edccEb854a78a/08a8f8ac153a9ea8.jpg)
 
-5.其他文件推荐使用GitHub文件加速
+6.其他文件推荐使用GitHub文件加速
 [网站](https://ghproxy.com/)
 
 ### 空壳版本
