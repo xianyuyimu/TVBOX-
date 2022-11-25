@@ -6,14 +6,18 @@
 
 3.有失效可以提Issue，有时间就修
 
-4.本仓库在线接口
-[接口](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json)
-
-5.推荐使用阿里4k源
+4.推荐使用阿里4k源
 ![Image](https://m.360buyimg.com/babel/jfs/t1/18649/35/19050/90124/6373edccEb854a78a/08a8f8ac153a9ea8.jpg)
 
-6.其他文件推荐使用GitHub文件加速
+5.其他文件推荐使用GitHub文件加速
 [网站](https://ghproxy.com/)
+
+
+## 🐳在线接口
+
+[主用接口](https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json)
+
+[备用接口](http://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/备用.json)
 
 ### 空壳版本
 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
