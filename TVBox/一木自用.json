@@ -353,7 +353,8 @@
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
 		},
 		//蓝光影院包
-{"key":"csp_Auete" ,"name":"🐼Auete〔SP〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"},{"key":"Yyy","name":"🦁在线直播〔SP〕","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.txt"},
+{"key":"csp_Auete" ,"name":"🐼Auete〔SP〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"},
+{"key":"Yyy","name":"🦁在线直播〔SP〕","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.txt"},
 		{
 			"key": "jjnnj",
 			"name": "🤖以下为官方资源🤖",
@@ -587,16 +588,14 @@
 		},{"key":"csp_XBPQTVB影视","name":"️💢TVB云播(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/TVB云播.json",
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/TVB%E4%BA%91%E6%92%AD.jar"
 		},
-		{"key":"NoSearch_Bdys_spider","name":"️💢哔滴影视(XB）","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"},
-	{
-			"key": "476",
-			"name": "",
-			"type": 3,
-			"api": "360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},	
+		{"key":"NoSearch_Bdys_spider","name":"️💢哔滴影视(XB）","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"},{
+            "key" : "drpy_js_独播库",
+            "name" : "️💢独播库(XB）",
+            "type" : 3,
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/XB包jar/独播库.min.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/独播库.js"
+        },
+
 	{
 			"key": "7",
 			"name": "🤖以下为动漫资源🤖",
@@ -818,17 +817,7 @@
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E7%9B%98%E6%90%9C.jar"
 		},
 		//盘搜包
-		{
-			"key": "AliPS",
-			"name": "😻盘搜〔仅搜索〕",
-			"type": 3,
-			"api": "csp_AliPS",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E7%9B%98%E6%90%9C.jar"
-		},
+
 		{
 			"key": "FindZY",
 			"name": "🦊找资源〔仅搜索〕",
@@ -843,7 +832,7 @@
 		//盘搜包
 		{
 			"key": "csp_Yisou",
-			"name": "🔎易搜+原画（仅支持搜索）",
+			"name": "🔎易搜（仅支持搜索）",
 			"type": 3,
 			"api": "csp_Yisou",
 			"searchable": 1,
@@ -863,6 +852,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/up%E4%BA%91%E6%90%9C.jar"
+		},{
+			"key": "AliPS",
+			"name": "😻盘搜-不推🗡️〔仅搜索〕",
+			"type": 3,
+			"api": "csp_AliPS",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E7%9B%98%E6%90%9C.jar"
 		},
 		{
 			"key": "push_agent",
@@ -872,7 +871,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "b5584f249a664385bd88a71573dc59ec",
+			"ext": "5e8a0d48c3f4486a843351c716c1af66",
 			"jar": "http://52bsj.vip:81/api/v3/file/get/40056/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"
 		},
 		{
