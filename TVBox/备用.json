@@ -15,12 +15,12 @@
 "wallpaper": "http://maoyingshi.cc/api.php",
 
 
-	"spider": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar",
+	"spider": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar",
 	//推荐包
 
 	
 	
-	"spider": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar",
+	"spider": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar",
 	//直播包
 
 
@@ -206,16 +206,8 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-	{"key": "厂长影视","name": "️🕵厂长资源〔SP〕","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"},
-		{
-			"key": "csp_Ysgc",
-			"name": "🎥影视工厂〔SP〕",
-			"type": 3,
-			"api": "csp_Ysgc",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	{"key": "厂长影视","name": "️🕵厂长资源〔SP〕","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"},
+	
 		{
 			"key": "csp_Dy1010",
 			"name": "🔟双十〔SP〕",
@@ -234,8 +226,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E7%88%B1%E7%9C%8B.txt"
-		},{"key":"Pang","name":"🐯胖虎〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%83%96%E8%99%8E.jar"},
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E7%88%B1%E7%9C%8B.txt"
+		},{"key":"Pang","name":"🐯胖虎〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%83%96%E8%99%8E.jar"},
 		{
 			"key": "csp_xpNmys",
 			"name": "🌾农民〔SP〕",
@@ -244,7 +236,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/农民.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/农民.json"
 		},
 		{
 			"key": "csp_Bttoo",
@@ -256,16 +248,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_SP360",
-			"name": " 🌈月光宝盒〔SP〕",
-			"type": 3,
-			"api": "csp_SP360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92.jar"
-		},
-		{
 			"key": "mtv_pc_追剧达人",
 			"name": "🌲追剧达人〔SP〕",
 			"type": 3,
@@ -273,7 +255,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.jar"
 		},
 		{
 			"key": "mjxq_spider",
@@ -302,7 +284,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
 		},
 		{
 			"key": "csp_77",
@@ -339,7 +321,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
 		},
 		//蓝光影院包
 		{
@@ -350,20 +332,12 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
 		},
 		//蓝光影院包
-{"key":"csp_Auete" ,"name":"🐼Auete〔SP〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"},
-//{"key":"Yyy","name":"🦁在线直播〔SP〕","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.txt"},
-				{
-			"key": "jjnzjz",
-			"name": "",
-			"type": 3,
-			"api": "360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+{"key":"csp_Auete" ,"name":"🐼Auete〔SP〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"},
+{"key":"Yyy","name":"🦁在线直播〔SP〕","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.jar"},
+		
 		{
 			"key": "jjnnj",
 			"name": "🤖以下为官方资源🤖",
@@ -390,7 +364,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
 		},
 		{
 			"key": "SPIQY",
@@ -400,7 +374,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
 		},
 		{
 			"key": "MGT",
@@ -410,7 +384,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
 		},
 		{
 			"key": "youku",
@@ -444,7 +418,7 @@
 				"少儿",
 				"其他片"
 			],
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%AE%98%E6%96%B9%E5%8C%85jar/%E5%AE%98%E6%96%B9.jar"
 		},
 		{
 			"key": "csp_SP361",
@@ -491,7 +465,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json"
 		},
 		{
 			"key": "csp_xp_789kp",
@@ -501,7 +475,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/789.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/789.json"
 		},
 		{
 			"key": "csp_xp_wnvod",
@@ -511,7 +485,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/万能影视.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/万能影视.json"
 		},
 		{
 			"key": "csp_xp_tjyy",
@@ -521,7 +495,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/奇优.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/奇优.json"
 		},
 		{
 			"key": "csp_biubiu_voflix",
@@ -531,7 +505,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/vo fl ix.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/vo fl ix.json"
 		},
 		{
 			"key": "mtv_pc_在线之家",
@@ -541,7 +515,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.jar"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.jar"
 		},
 		{
 			"key": "csp_biubiu_骚火电影",
@@ -551,7 +525,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/骚火电影.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/骚火电影.json"
 		},
 		{
 			"key": "csp_xbb_达达龟",
@@ -561,7 +535,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/达达龟.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/达达龟.json"
 		},
 		{
 			"key": "剧荒",
@@ -582,7 +556,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/B站影视.py"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/B站影视.py"
 		},
 		
 		{
@@ -593,16 +567,14 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/LIBVIO.json"
-		},{"key":"csp_XBPQTVB影视","name":"️💢TVB云播(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,	"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/TVB云播.json",
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/TVB%E4%BA%91%E6%92%AD.jar"
-		},
-		{"key":"NoSearch_Bdys_spider","name":"️💢哔滴影视(XB）","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"},{
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/LIBVIO.json"
+		},{"key":"csp_xBPQ_诺讯影视","name":"️💢诺讯(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/诺讯影视.json"},
+		{"key":"NoSearch_Bdys_spider","name":"️💢哔滴影视(XB）","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"},{
             "key" : "drpy_js_独播库",
             "name" : "️💢独播库(XB）",
             "type" : 3,
-            "api" : "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JAR/XB包jar/独播库.min.js",
-            "ext" : "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/XB包/独播库.js"
+            "api" : "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/XB包jar/独播库.min.js",
+            "ext" : "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/独播库.js"
         },
 
 	{
@@ -630,7 +602,7 @@
 			"api": "csp_Anime1",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"
+			"filterable": 1,"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"
 		},
 		{
 			"key": "csp_Dm84",
@@ -649,7 +621,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/异次元动漫.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/异次元动漫.json"
 		},
 		{
 			"key": "mtv_xp_动漫岛源",
@@ -659,7 +631,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/动漫岛.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/动漫岛.json"
 		},
 		{
 			"key": "mtv_xp_去看动漫",
@@ -669,7 +641,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/去看动漫.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/去看动漫.json"
 		},
 
                    
@@ -677,7 +649,7 @@
             "key" : "drpy_js_AGE动漫",
             "name" : "🐸AGE动漫",
             "type" : 3,
-            "api" : "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JAR/动漫包jar/age动漫.js",
+            "api" : "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/动漫包jar/age动漫.js",
             "ext" : "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/AGE动漫 (1).js"
             },{
       "key": "csp_biubiu_风车动漫",
@@ -687,7 +659,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/风车动漫.json"
+      "ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/风车动漫.json"
     },{
 			"key": "djsjsj",
 			"name": "",
@@ -723,7 +695,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/直播包/体育直播.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/体育直播.json"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -742,7 +714,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙.py"
+		"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙.py"
 	},
   {
     "key":"csp_XYQBiu_虎牙直播",
@@ -752,7 +724,7 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":0,
-    "ext":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙直播.json"
+    "ext":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙直播.json"
     },
  {
 		"key": "py_douyu",
@@ -762,7 +734,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼.py"
+		"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼.py"
 	},
  {
       "key": "csp_biubiu_斗鱼",
@@ -772,7 +744,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼直播.json"
+      "ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼直播.json"
     },
     {
       "key": "网易CC",
@@ -815,12 +787,12 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-	{"key":"Upyunso","name":"☁️up搜(仅搜索）","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/up%E2%98%81%EF%B8%8F.jar"},
-	{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%B0%8F%E7%BA%B8%E6%9D%A1.jar"},
-{"key":"csp_Zhaozy","name":"🔍找资源（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"},
-{"key":"csp_AliPS","name":"📀喵盘搜不推🗡️(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"},
-{"key":"csp_Yisou","name":"🔎易搜（仅支持搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"},
-{"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"},
+	{"key":"Upyunso","name":"☁️up搜(仅搜索）","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/up%E2%98%81%EF%B8%8F.jar"},
+	{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%B0%8F%E7%BA%B8%E6%9D%A1.jar"},
+{"key":"csp_Zhaozy","name":"🔍找资源（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"},
+{"key":"csp_AliPS","name":"📀喵盘搜不推🗡️(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"},
+{"key":"csp_Yisou","name":"🔎易搜（仅支持搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"},
+{"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/yimu/tv/raw/commit/3c1bed5fe1546705355e554267a162748696a789/token.txt","jar":"https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"},
 		{
 			"key": "csp_Alist1",
 			"name": "网盘仓库",
@@ -840,7 +812,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//FongMi/CatVodSpider/main/json/alist.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
 		},
 		{
 			"key": "10",
@@ -869,7 +841,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/爱央视.py"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/爱央视.py"
 		},{
       "key": "csp_xpath_酷狗MV",
       "name": "🐶酷狗MV",
@@ -878,7 +850,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷狗mv.json"
+      "ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷狗mv.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -888,7 +860,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷奇mv.json"
+      "ext": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷奇mv.json"
     },
 		{
 			"key": "csp_biubiu_tingshuxb",
@@ -899,7 +871,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/听书网.json",
-			"jar": "https://gitcdn.top/https://raw.githubusercontent.com//xianyuyimu/TVBOX-/main/一木源/JAR/娱乐jar/bili.jpg"
+			"jar": "https://gitcdn.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/娱乐jar/bili.jpg"
 		}
 	],
 
