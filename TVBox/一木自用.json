@@ -740,7 +740,7 @@
       "key": "csp_biubiu_斗鱼",
       "name": "🦈斗鱼直播",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XYQBiu",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -842,7 +842,8 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/爱央视.py"
-		},{
+		},	{"key":"csp_xBPQ_聚短视频","name":"📽️聚短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/短视频.json",	"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E8%81%9A%E7%9F%AD%E8%A7%86%E9%A2%91.jar"},
+		{
       "key": "csp_xpath_酷狗MV",
       "name": "🐶酷狗MV",
       "type": 3,
