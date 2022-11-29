@@ -247,16 +247,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "mtv_pc_追剧达人",
-			"name": "🌲追剧达人〔SP〕",
-			"type": 3,
-			"api": "csp_Zjdr",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.jar"
-		},
+
 		{
 			"key": "mjxq_spider",
 			"name": "🌏美剧星球〔SP〕",
@@ -265,6 +256,15 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},	{
+			"key": "mtv_pc_追剧达人",
+			"name": "🌲追剧达人〔SP〕",
+			"type": 3,
+			"api": "csp_Dora",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,"ext":"778e8966ec0e9c0ae0b4682ad3550f40",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.jar"
 		},
 		{
 			"key": "csp_Cokemv",
