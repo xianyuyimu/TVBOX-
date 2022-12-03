@@ -207,13 +207,13 @@
       "key": "厂长影视",
       "name": "️🕵厂长资源〔SP〕",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_Dora",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext":"8ee655f702d0d21f3643504783babbc3",
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"
     },
-
     {
       "key": "csp_Dy1010",
       "name": "🔟双十〔SP〕",
