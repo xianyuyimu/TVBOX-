@@ -414,7 +414,7 @@
     },
     {
       "key": "SPQQ",
-      "name": "🐧腾讯(官)",
+      "name": "🐧腾讯不推🗡️(官)",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -424,7 +424,7 @@
     },
     {
       "key": "SPIQY",
-      "name": "🥝爱奇艺(官)",
+      "name": "🥝爱奇艺不推🗡️(官)",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -434,7 +434,7 @@
     },
     {
       "key": "MGT",
-      "name": "🥭芒果(官)",
+      "name": "🥭芒果不推🗡️(官)",
       "type": 3,
       "api": "csp_Mgtv",
       "searchable": 1,
@@ -444,7 +444,7 @@
     },
     {
       "key": "youku",
-      "name": "👑优酷(官)",
+      "name": "👑优酷不推🗡️(官)",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
@@ -478,7 +478,7 @@
     },
     {
       "key": "csp_SP361",
-      "name": "💘360(官)",
+      "name": "💘360不推🗡️(官)",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
