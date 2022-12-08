@@ -167,7 +167,7 @@
       "key": "t4public",
       "name": "🔍豆瓣榜单2〔T4〕",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
+      "api": "http://drpy.ganggang.live:5705/vod?rule=drpy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
