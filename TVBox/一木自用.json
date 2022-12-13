@@ -721,15 +721,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/风车动漫.json"
-    },
-    {
-      "key": "djsjsj",
-      "name": "",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+    },{
+      "key":"csp_Ying",
+      "name":"🌼樱花动漫",
+      "type":3,
+      "api":"csp_Ying",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%8A%A8%E6%BC%AB%E5%8C%85jar/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.txt"
     },
     {
       "key": "8",
