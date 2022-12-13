@@ -224,15 +224,14 @@
       "filterable": 1
     },
     {
-      "key": "IKan",
-      "name": "💖爱看〔SP〕",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E7%88%B1%E7%9C%8B.txt"
+      "key":"csp_xBPQ_爱看影视",
+      "name":"💖爱看影视〔SP〕",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"
     },
     {
       "key":"Pang",
