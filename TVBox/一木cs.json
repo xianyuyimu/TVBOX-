@@ -158,7 +158,7 @@
       "key": "douban",
       "name": "🔍豆瓣榜单1〔不要勾选〕",
       "type": 4,
-      "api": "http://t4.ganggang.live:3812/vod",
+      "api": "https://t4.xn--sss604efuw.ml/vod",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
