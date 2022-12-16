@@ -156,7 +156,7 @@
     },
     {
       "key": "douban",
-      "name": "🔍豆瓣榜单1〔T4〕",
+      "name": "🔍豆瓣榜单1〔不要勾选〕",
       "type": 4,
       "api": "http://t4.ganggang.live:3812/vod",
       "searchable": 0,
@@ -165,7 +165,7 @@
     },
     {
       "key": "t4public",
-      "name": "🔍豆瓣榜单2〔T4〕",
+      "name": "🔍豆瓣榜单2〔不要勾选〕",
       "type": 4,
       "api": "http://drpy.ganggang.live:5705/vod?rule=drpy",
       "searchable": 1,
