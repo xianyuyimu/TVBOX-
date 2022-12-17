@@ -212,7 +212,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"8ee655f702d0d21f3643504783babbc3",
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"
+      "jar":"https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"
     },
     {
       "key": "csp_Dy1010",
@@ -241,7 +241,7 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/胖虎.json"
+      "ext":"https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/胖虎.json"
     },
     {
       "key": "csp_xpNmys",
@@ -804,7 +804,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼直播.json"
+      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼直播.json"
     },
     {
       "key": "网易CC",
@@ -972,8 +972,8 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/短视频.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E8%81%9A%E7%9F%AD%E8%A7%86%E9%A2%91.jar"
+      "ext":"https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/短视频.json",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E8%81%9A%E7%9F%AD%E8%A7%86%E9%A2%91.jar"
     },
     {
       "key": "csp_xpath_酷狗MV",
