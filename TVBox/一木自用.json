@@ -138,7 +138,7 @@
 
   "sites": [{
     "key": "djdjs",
-    "name": "🙀一木缝合源║12.21更新",
+    "name": "🙀一木缝合源║12.22更新",
     "type": 3,
     "api": "",
     "searchable": 1,
@@ -711,7 +711,7 @@
       "name" : "🐸AGE动漫",
       "type" : 3,
       "api" : "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/动漫包jar/age动漫.js",
-      "ext" : "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/AGE动漫 (1).js"
+      "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/AGE动漫 (1).js"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -819,7 +819,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/网易cc.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/网易cc.json"
     },
     {
       "key": "csp_XYQ_lu1",
