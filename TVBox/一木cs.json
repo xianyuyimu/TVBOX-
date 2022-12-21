@@ -853,7 +853,7 @@
 
     {
       "key": "9",
-      "name": "🤖以下为网盘资源🤖",
+      "name": "🤖以下为网盘4k资源🤖",
       "type": 3,
       "api": "360",
       "searchable": 1,
@@ -862,7 +862,7 @@
     },
     {
       "key": "y",
-      "name": "🤖以下为网盘资源🤖",
+      "name": "🤖以下为网盘4k资源🤖",
       "type": 3,
       "api": "360",
       "searchable": 1,
@@ -870,27 +870,38 @@
       "filterable": 1
     },
     {
-      "key":"Upyunso",
-      "name":"☁️up搜(仅搜索）",
-      "type":3,
-      "api":"csp_Upyunso",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch" :1,
-      "filterable":0,
-      "ext":"https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-      "jar":"https://raw.iqiq.io/xianyuyimu/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/up%E2%98%81%EF%B8%8F.jar"
+      "key": "小纸条1",
+      "name": "📃小纸条1",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%B0%8F%E7%BA%B8%E6%9D%A11.jar"
     },
     {
-      "key":"Gitcafe",
-      "name":"📃小纸条",
-      "type":3,
-      "api":"csp_Gitcafe",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-      "jar":"https://raw.iqiq.io/xianyuyimu/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%B0%8F%E7%BA%B8%E6%9D%A1.jar"
+      "key": "小纸条2",
+      "name": "📃小纸条2",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%B0%8F%E7%BA%B8%E6%9D%A12.jar"
+    },
+    {
+      "key": "Upyunso",
+      "name": "☁️up搜(仅搜索）",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/up%E2%98%81%EF%B8%8F.jar"
     },
     {
       "key": "csp_Zhaozy",
@@ -966,15 +977,6 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"https://raw.iqiq.io/xianyuyimu/xianyuyimu/TVBOX-/main/一木源/JSON/网盘包/小雅搜索.json"
-    },
-    {
-      "key": "hhh1",
-      "name": "",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "10",
