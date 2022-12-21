@@ -887,15 +887,15 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E6%89%BE%E8%B5%84%E6%BA%90.jar"
     },
     {
-      "key":"csp_AliPS",
-      "name":"📀喵盘搜不推🗡️(仅支持搜索）",
-      "type":3,
-      "api":"csp_AliPS",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"
+      "key": "csp_AliPS",
+      "name": "📀喵盘搜️(仅支持搜索）",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%96%B5%E7%9B%98%E6%90%9C.jar"
     },
     {
       "key":"csp_Yisou",
