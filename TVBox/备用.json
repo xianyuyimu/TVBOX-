@@ -770,16 +770,6 @@
       "filterable": 1
     },
     {
-      "key": "py_huya",
-      "name": "🐯虎牙",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙.py"
-    },
-    {
       "key":"csp_XYQBiu_虎牙直播",
       "name":"🐯虎牙直播",
       "type":3,
@@ -788,16 +778,6 @@
       "quickSearch":0,
       "filterable":0,
       "ext":"https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙直播.json"
-    },
-    {
-      "key": "py_douyu",
-      "name": "🦈斗鱼",
-      "type": 3,
-      "api": "py_douyu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼.py"
     },
     {
       "key": "csp_biubiu_斗鱼",
@@ -1000,16 +980,6 @@
       "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E8%81%9A%E7%9F%AD%E8%A7%86%E9%A2%91.jar"
     },
     {
-      "key": "csp_xpath_酷狗MV",
-      "name": "🐶酷狗MV",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷狗mv.json"
-    },
-    {
       "key": "csp_xpath_kuqimv",
       "name": "🎤酷奇MV",
       "type": 3,
@@ -1020,15 +990,26 @@
       "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷奇mv.json"
     },
     {
-      "key": "csp_biubiu_tingshuxb",
-      "name": "🎧听书网",
+      "key": "csp_Bili",
+      "name": "★哔哩合集",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_Bili",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/听书网.json",
-      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JAR/娱乐jar/bili.jpg"
+      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/哔哩合集.json",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%80%9A%E7%94%A8%E5%8C%85.jar"
+    },
+    {
+      "key": "csp_Biliych",
+      "name": "★看演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/看演唱会.json",
+      "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%80%9A%E7%94%A8%E5%8C%85.jar"
     }],
 
   "parses": [{
