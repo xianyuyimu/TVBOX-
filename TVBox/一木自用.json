@@ -772,16 +772,6 @@
       "filterable": 1
     },
     {
-      "key": "py_huya",
-      "name": "🐯虎牙",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙.py"
-    },
-    {
       "key":"csp_XYQBiu_虎牙直播",
       "name":"🐯虎牙直播",
       "type":3,
@@ -790,16 +780,6 @@
       "quickSearch":0,
       "filterable":0,
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙直播.json"
-    },
-    {
-      "key": "py_douyu",
-      "name": "🦈斗鱼",
-      "type": 3,
-      "api": "py_douyu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼.py"
     },
     {
       "key": "csp_biubiu_斗鱼",
