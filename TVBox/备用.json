@@ -138,7 +138,7 @@
 
   "sites": [{
     "key": "djdjs",
-    "name": "🙀一木缝合源║12.22更新",
+    "name": "🙀一木缝合源║12.24更新",
     "type": 3,
     "api": "",
     "searchable": 1,
@@ -879,7 +879,7 @@
       "key": "csp_AliPS",
       "name": "📀喵盘搜️(仅支持搜索）",
       "type": 3,
-      "api": "csp_AliPS",
+      "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
