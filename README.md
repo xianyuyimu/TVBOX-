@@ -4,7 +4,7 @@
 
 2.如果使用本仓库请复刻，请勿传播
 
-3.有失效可以提Issues有时间就修
+3.有失效可以提Issues有时间就修(请提具体如xx影视不能用了)
 
 4.推荐使用阿里4k源
 ![Image](https://m.360buyimg.com/babel/jfs/t1/18649/35/19050/90124/6373edccEb854a78a/08a8f8ac153a9ea8.jpg)
