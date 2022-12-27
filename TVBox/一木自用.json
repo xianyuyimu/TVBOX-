@@ -138,7 +138,7 @@
 
   "sites": [{
     "key": "djdjs",
-    "name": "🙀一木缝合源║12.25更新",
+    "name": "🙀一木缝合源║12.27更新",
     "type": 3,
     "api": "",
     "searchable": 1,
@@ -246,30 +246,10 @@
       "ext":"https://git.qianxun.life/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/胖虎.json"
     },
     {
-      "key": "csp_xpNmys",
-      "name": "🌾农民〔SP〕",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.qianxun.life/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/农民.json"
-    },
-    {
       "key": "csp_Bttoo",
       "name": "✌两个BT〔SP〕",
       "type": 3,
       "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-    {
-      "key": "mjxq_spider",
-      "name": "🌏美剧星球〔SP〕",
-      "type": 3,
-      "api": "csp_Mjxq",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -284,16 +264,6 @@
       "filterable": 1,
       "ext":"http://121.205.88.126:7788",
       "jar": "https://git.qianxun.life/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9B%BE%E5%9B%BE.txt"
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "🚗cokemv影视〔SP〕",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_Lgyy",
@@ -324,15 +294,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_DiDuan",
-      "name": "📺低端影视〔SP〕",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key":"csp_555",
       "name":"5️⃣555影视〔SP〕",
       "type":3,
@@ -341,7 +302,7 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"https://git.qianxun.life/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/555.json",
-      "jar": "https://git.qianxun.life/https://raw.githubusercontent.com/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
+      "jar": "https://git.qianxun.life/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/555%E5%BD%B1%E8%A7%86.jar"
     },
     {
       "key": "csp_fant",
@@ -498,16 +459,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_biubiu_真不卡影院(不支持搜索)",
-      "name": "💢真 不 卡〔XB〕",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.qianxun.life/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json"
-    },
-    {
       "key": "csp_xp_789kp",
       "name": "💢789 看片〔XB〕",
       "type": 3,
@@ -546,16 +497,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://git.qianxun.life/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/vo fl ix.json"
-    },
-    {
-      "key": "mtv_pc_在线之家",
-      "name": "💢在线之家〔XB〕",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://git.qianxun.life/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.jar"
     },
     {
       "key": "csp_biubiu_骚火电影",
