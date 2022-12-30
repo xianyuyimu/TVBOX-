@@ -138,7 +138,7 @@
 
   "sites": [{
     "key": "djdjs",
-    "name": "🙀一木缝合源║12.27更新",
+    "name": "🙀一木缝合源║12.30更新",
     "type": 3,
     "api": "",
     "searchable": 1,
@@ -312,11 +312,9 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/555%E5%BD%B1%E8%A7%86.jar"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E9%A5%AD%E5%9B%A2.jar"
     },
-    //555包
-
-    {
+ {
       "key":"csp_Auete",
       "name":"🐼Auete〔SP〕",
       "type": 3,
