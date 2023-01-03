@@ -205,12 +205,12 @@
             "key": "mtv_pc_追剧达人",
             "name": "🌲图图影视〔SP〕",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_Dora",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://124.248.66.107:7799",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9B%BE%E5%9B%BE.txt"
+            "ext": "110c922de7d69804467fb83d3bb664b5",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9B%BE%E5%9B%BE.jar"
         },
         {
             "key": "csp_Lgyy",
